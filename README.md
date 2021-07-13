@@ -5,8 +5,7 @@ Short program for converting images into line art with OpenCV "Canny Edge Detect
 Note: This hasn't been tested on Windows or MacOS, only Ubuntu. 
 
 ![image](https://user-images.githubusercontent.com/62955316/125382042-90277980-e35a-11eb-9dbf-cf7140a57ff2.png)
-
-
+![image](https://user-images.githubusercontent.com/62955316/125383599-42f8d700-e35d-11eb-88d1-da22cd50aa87.png)
 
 # Setup
 
